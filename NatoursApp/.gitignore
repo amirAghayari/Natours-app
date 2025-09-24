@@ -2,3 +2,7 @@ NODE_ENV=development
 PORT=3000
 USERNAME=jonas
 PASSWORD=123456
+
+/node_modules
+
+.idea/
